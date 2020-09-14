@@ -1,0 +1,26 @@
+
+
+h1 {
+	text-align: center;
+}
+
+.inputs {
+	text-align: center;
+}
+
+#valorR, #valorG, #valorB {
+	margin-left: 20px;
+	width: 40px;
+}
+
+#vermelho , #verde , #azul {
+	width: 300px;
+	margin-top: 30px;
+}
+
+#atualCor {
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 200px;
+	height: 200px;
+}
